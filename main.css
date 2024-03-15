@@ -1,0 +1,48 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.hero-banner {
+    background-color: #cf7bac;
+    text-align: center;
+    padding: 50px 0;
+}
+.content-section {
+    background-color: #ffdaee;
+    padding: 30px 20px;
+    text-align: center;
+}
+.card-section {
+    background-color: #ffdaee;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 30px 0;
+}
+.card {
+    background-color: #cf7bac;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin: 10px;
+    width: 300px;
+    text-align: center;
+}
+.video-section {
+    background-color: #d8b0c6;
+    padding: 50px 0;
+    text-align: center;
+}
+.accordion-section {
+    background-color: #ffdaee;
+    padding: 50px 0;
+    text-align: center;
+}
+.footer {
+    background-color: #cf7bac;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
